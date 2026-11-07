@@ -23,7 +23,7 @@ I build data systems and models for decisions that matter. I've spent 9 years in
 ### Portfolio
 | Project | What it shows | Status |
 |---|---|---|
-| Hospital readmission risk model | Healthcare ML, calibration, SHAP, fairness audit | Planned |
+| [Hospital readmission risk model](https://github.com/MulengaSnr/readmission-risk-model) | Healthcare ML with patient-grouped validation, calibration, SHAP and a fairness audit. Test set: the top 20% of discharges reaches 39% of readmissions | **Complete** |
 | Readmission model in production | MLflow, FastAPI, Docker, CI/CD, drift monitoring, Azure | Planned |
 | Patient record linkage pipeline | Airflow, PostgreSQL, Splink, data quality, synthetic patients | Planned |
 | UK public documents assistant (RAG) | LLMs, embeddings, retrieval evaluation | Planned |
