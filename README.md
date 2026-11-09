@@ -25,7 +25,7 @@ I build data systems and models for decisions that matter. I've spent 9 years in
 |---|---|---|
 | [Hospital readmission risk model](https://github.com/MulengaSnr/readmission-risk-model) | Healthcare ML with patient-grouped validation, calibration, SHAP and a fairness audit. Test set: the top 20% of discharges reaches 39% of readmissions | **Complete** |
 | [Readmission model in production](https://github.com/MulengaSnr/readmission-risk-mlops) | The same model as a tested, monitored API with a [live demo](https://ca-readmission-api.purplemushroom-33c1d15b.francecentral.azurecontainerapps.io/docs). CI retrains and deploys to Azure on every merge. MLflow, FastAPI, Docker, GitHub Actions | **Complete** |
-| Patient record linkage pipeline | Airflow, PostgreSQL, Splink, data quality, synthetic patients | Planned |
+| [Patient record linkage pipeline](https://github.com/MulengaSnr/patient-record-linkage) | Finds the same patient across hospital, GP and lab records, with stable IDs, a data-quality gate and a daily Airflow pipeline. Synthetic held-out test, medium errors: finds 96.3% of true matches at 99.9% precision, against 85.8% for exact-match rules. Splink, PostgreSQL, PySpark, Shiny | **Complete** |
 | UK public documents assistant (RAG) | LLMs, embeddings, retrieval evaluation | Planned |
 | NHS demand forecasting | Time series, backtesting, Streamlit | Planned |
 | Policy impact evaluation | Causal inference, difference-in-differences | Planned |
