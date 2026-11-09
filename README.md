@@ -33,6 +33,11 @@ I build data systems and models for decisions that matter. I've spent 9 years in
 
 ---
 
+### Publication
+**Optimizing HIV service delivery through multi-month dispensing of antiretroviral therapy beyond 6 months and biennial viral load monitoring: Evidence from the national electronic medical record system in Zambia, 2020–2025.** Poster, AIDS 2026, the 26th International AIDS Conference, July 2026. Co-author, with colleagues at CDC and the Zambia Ministry of Health. A retrospective cohort of 239,027 adults on HIV treatment in Zambia's national electronic medical record system. The findings are observational.
+
+---
+
 ### Tools
 **Languages:** Python · R · SQL · STATA
 **ML and statistics:** scikit-learn · XGBoost · SHAP · statsmodels · regression and predictive modelling
